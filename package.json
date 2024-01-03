@@ -10,7 +10,9 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@vue/language-plugin-pug": "^1.8.27",
     "nuxt": "^3.9.0",
+    "sass": "^1.69.7",
     "vite-plugin-pug": "^0.3.2",
     "vue": "^3.4.3",
     "vue-router": "^4.2.5",
